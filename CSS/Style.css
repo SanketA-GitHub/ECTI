@@ -158,11 +158,11 @@ input[type="Submit"]
 	{	
 		margin-top:-50px;
 		padding:0px;
-		font-size:10px;
+		font-size:14px;
 	}
 	#Newsletter h1
 	{
-		font-size:20px;
+		font-size:14px;
 		color:orange;
 		width:25%;
 	}
@@ -175,7 +175,7 @@ input[type="Submit"]
 	}
 	input[type="text"]
 	{
-		width:150px;
+		width:110px;
 		border-radius:5px;
 	}
 	input[type="Submit"]
